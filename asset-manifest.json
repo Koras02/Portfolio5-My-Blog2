@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Koras02/Portfolio5-My-Blog2/static/css/main.453f2419.chunk.css",
+    "main.js": "/Koras02/Portfolio5-My-Blog2/static/js/main.11da8a3f.chunk.js",
+    "main.js.map": "/Koras02/Portfolio5-My-Blog2/static/js/main.11da8a3f.chunk.js.map",
+    "runtime-main.js": "/Koras02/Portfolio5-My-Blog2/static/js/runtime-main.34579e85.js",
+    "runtime-main.js.map": "/Koras02/Portfolio5-My-Blog2/static/js/runtime-main.34579e85.js.map",
+    "static/js/2.b976610e.chunk.js": "/Koras02/Portfolio5-My-Blog2/static/js/2.b976610e.chunk.js",
+    "static/js/2.b976610e.chunk.js.map": "/Koras02/Portfolio5-My-Blog2/static/js/2.b976610e.chunk.js.map",
+    "static/js/3.57fe623f.chunk.js": "/Koras02/Portfolio5-My-Blog2/static/js/3.57fe623f.chunk.js",
+    "static/js/3.57fe623f.chunk.js.map": "/Koras02/Portfolio5-My-Blog2/static/js/3.57fe623f.chunk.js.map",
+    "index.html": "/Koras02/Portfolio5-My-Blog2/index.html",
+    "static/css/main.453f2419.chunk.css.map": "/Koras02/Portfolio5-My-Blog2/static/css/main.453f2419.chunk.css.map",
+    "static/js/2.b976610e.chunk.js.LICENSE.txt": "/Koras02/Portfolio5-My-Blog2/static/js/2.b976610e.chunk.js.LICENSE.txt",
+    "static/media/Video3.625d45c8.mp4": "/Koras02/Portfolio5-My-Blog2/static/media/Video3.625d45c8.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34579e85.js",
+    "static/js/2.b976610e.chunk.js",
+    "static/css/main.453f2419.chunk.css",
+    "static/js/main.11da8a3f.chunk.js"
+  ]
+}
