@@ -1,0 +1,38 @@
+.Button1 {
+    padding:20px 44px 27px 44px;
+    animation:fadeInLeft;
+    animation-delay: 0.8s;
+    background:#e44239;
+    color:#fff;
+    outline: none;
+
+     &:hover {
+         background:blue;
+         animation: color ;
+         animation-duration: 5s;
+         @keyframes color {
+             10% {background: red; left:10px; color:#fff; }
+             50% {background: yellow; width:10px;color:#fff}
+         }
+     }
+}
+.Button2 {
+    padding:20px 44px 27px 44px;
+    margin-left:15px;
+    // border:1px solid red;
+    color:#000;
+    background:#fff;
+    border:1px solid pink;
+
+    animation-delay: 0.8s;
+        &:hover {
+         background:blue;
+         border:1px solid #000;
+         animation: color ;
+         color:#fff;
+         animation-duration: 5s;
+         @keyframes color {
+             10% {background: red; left:10px; }
+         }
+     }
+}
